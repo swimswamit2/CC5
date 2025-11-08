@@ -5,8 +5,9 @@
                 "name": "custom/wrappedinmymemory",
                 "volume": 1.00
             }
-        ],
+        ]
         "replace": true
     }
 
 }
+

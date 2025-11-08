@@ -1,0 +1,11 @@
+{
+    "block.lever.click": {
+        "sounds": [
+            {
+                "name": "custom\/Wrappedinmymemory",
+                "volume": 1.00
+            }
+        ],
+        "replace": true
+    }
+}
